@@ -1,4 +1,4 @@
-#Option 2: Clustering Image Metadata
+Option 2: Clustering Image Metadata
 
 I clustered the images based on "art_movement", "primary_medium", "representation", "te"(texture of the artwork), "sh"(the shape of marks), "li"(qualities of lines). 
 Then I replaced the missing values in the data set with 0, and transformed strings in "art_movement" and "primary_medium" by assigning them numerical keys. 
